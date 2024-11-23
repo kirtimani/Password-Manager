@@ -1,0 +1,47 @@
+#pass-manag{
+    height: 50vh;
+    width: 100vh;
+    /* display: flex; */
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 25vh;
+}
+h1{
+    margin-left: 20vh;
+    color: rgb(233, 233, 233);
+    width:60%;
+    outline: none;
+}
+
+form{
+    margin-left: 25vh;
+}
+
+#btn:hover {
+   
+    color: rgb(56, 210, 125);
+}
+#btn{
+    width: 8em;
+    height: 5ex;
+    background-color: transparent;
+    border: none;
+    border-radius: 7px;
+    margin-left: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    cursor: pointer
+}
+input{
+    font-size: 1.5rem;
+    outline: none;
+    background: transparent;
+    border: 1px rgb(10, 114, 10) solid;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+h1:hover{
+    color: rgb(44, 164, 88);
+}
